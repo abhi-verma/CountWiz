@@ -2,7 +2,7 @@
 
 CountWiz is a web application developed using ReactJS, one of the most popular JavaScript frameworks. It displays a counter to the date that the user enters.
 
-![Patatap](https://user-images.githubusercontent.com/22184019/34337612-e17c507a-e986-11e7-86f7-96e7c6d16753.gif)
+![countwiz](https://user-images.githubusercontent.com/22184019/36080104-b726359e-0f50-11e8-8099-63d03389f2d7.gif)
 
 ## Available Scripts
 
@@ -52,5 +52,3 @@ You can refer [to the React documentation](https://reactjs.org/docs/react-dom.ht
 - HTML
 - CSS
 - JavaScript
-
-### Create your favorite melody! :musical_note:
